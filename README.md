@@ -4,7 +4,7 @@ A **premium, glassmorphism-inspired dark navbar** with beautiful neon hover effe
 Fully responsive (optional) and built **purely with HTML and CSS**—no JavaScript required!
 
 🎬 **Preview on YouTube Shorts:**  
-[Watch the Effect Here](https://www.youtube.com/shorts/YOUR_SHORT_VIDEO_ID)
+[Watch the Effect Here](https://youtube.com/shorts/2VTeSTc_nHU)
 
 ---
 
@@ -22,7 +22,7 @@ Fully responsive (optional) and built **purely with HTML and CSS**—no JavaScri
 
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
-3. Customize the links and styles to fit your project.
+3. Customise the links and styles to fit your project.
 
 ---
 
@@ -37,7 +37,7 @@ Fully responsive (optional) and built **purely with HTML and CSS**—no JavaScri
 
 If you enjoyed this effect, please **subscribe** to my YouTube channel for more creative web design tutorials:
 
-🔗 [Coding\_\_Track on YouTube](https://www.youtube.com/@Coding__Track)
+🔗 [Coding\_\_Track](https://www.youtube.com/@Coding__Track)
 
 ---
 
